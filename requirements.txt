@@ -1,0 +1,2 @@
+boto3 #used to interact with AWS services
+awscli #used to manage AWS services from the command line
