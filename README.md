@@ -3,9 +3,9 @@
 
 This project demonstrates native text generation using AWS Bedrock's low-level runtime API. It provides clean, dependency-light Python scripts to invoke two industry-leading foundation models:
 
-Meta LLaMA 3 70B Instruct
+Meta LLaMA 3 8B Instruct
 
-Anthropic Claude 3
+Anthropic Claude 
 
 The code sends raw text prompts formatted in each model’s native structure and handles both the request payload construction and response parsing directly via the boto3 client. It showcases how to:
 
